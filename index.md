@@ -1,7 +1,7 @@
-title:"title"
-permalink: /
-layout: default
----
+# Howdy im PurpleWazard! 
 
 
-hello this is my webseite
+
+
+
+heres my [Neovim Config](https://github.com/PurpleWazard/dotfiles/tree/master/.config/nvim) ive been using neovim for a year now and its taken many hours to get my config to an enjoyable state
