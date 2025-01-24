@@ -1,1 +1,1 @@
-https://purplewazard.github.io/Bannana/
+www.wazard.online
