@@ -1,1 +1,1 @@
-www.wazard.online
+https://wazard.online
